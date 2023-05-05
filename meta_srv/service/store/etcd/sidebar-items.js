@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_RETRIES"],"opaque":[""],"static":["CALLSITE","META"],"struct":["BatchDelete","BatchGet","BatchPut","CompareAndPut","Delete","EtcdStore","Get","KvPair","MoveValue","Put"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["COLUMN_NAME","DATA_TYPE","TABLE_CATALOG","TABLE_NAME","TABLE_SCHEMA"],"opaque":[""],"struct":["InformationSchemaColumns","InformationSchemaColumnsBuilder"]};

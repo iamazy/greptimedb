@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CELL"],"fn":["__getit","__init"],"static":["AS_MAPPING","CELL","__KEY"],"struct":["PyRecordBatch"]};

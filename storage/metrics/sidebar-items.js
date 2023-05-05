@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CREATE_REGION_UPDATE_MANIFEST"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["open_or_create_table"],"opaque":[""],"static":["CALLSITE","META"],"struct":["RemoteCatalogManager","RemoteCatalogProvider","RemoteSchemaProvider"]};

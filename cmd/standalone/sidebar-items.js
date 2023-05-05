@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SubCommand"],"fn":["build_frontend"],"opaque":[""],"static":["CALLSITE","META"],"struct":["Command","Instance","StandaloneOptions","StartCommand"]};

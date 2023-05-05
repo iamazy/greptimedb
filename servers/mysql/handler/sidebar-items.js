@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["dummy_params","format_duration","replace_params","replace_placeholder","validate_query"],"opaque":[""],"static":["CALLSITE","META"],"struct":["MysqlInstanceShim"]};

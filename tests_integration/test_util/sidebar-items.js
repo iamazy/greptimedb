@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["StorageType","TempDirGuard"],"fn":["create_test_table","create_tmp_dir_and_datanode_opts","get_port","get_test_store_config","s3_test_config","setup_grpc_server","setup_test_http_app","setup_test_http_app_with_frontend","setup_test_prom_app_with_frontend"],"opaque":[""],"static":["PORTS"],"struct":["TestGuard"]};

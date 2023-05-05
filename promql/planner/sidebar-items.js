@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_FIELD_COLUMN","FIELD_COLUMN_MATCHER","LEFT_PLAN_JOIN_ALIAS","SPECIAL_TIME_FUNCTION"],"enum":["ScalarFunc"],"opaque":[""],"struct":["FunctionArgs","PromPlanner","PromPlannerContext"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["LAST_CHECKPOINT_FILE"],"fn":["__stability","__static_ref_initialize","checkpoint_file","delta_file","file_version","is_checkpoint_file","is_delta_file"],"static":["CALLSITE","LAZY","META"],"struct":["CHECKPOINT_RE","CheckpointMetadata","DELTA_RE","ManifestObjectStore","ObjectStoreLogIterator"]};

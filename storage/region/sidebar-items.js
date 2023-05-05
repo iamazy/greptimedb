@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["writer"],"opaque":[""],"static":["CALLSITE","META"],"struct":["AlterContext","CompactContext","RegionImpl","RegionInner","RegionWriter","SharedData","StoreConfig","WriterContext"],"type":["RecoverdMetadata","RecoveredMetadataMap","RegionWriterRef","SharedDataRef"]};

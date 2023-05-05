@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TABLE_ID_SEQ"],"mod":["builder"],"opaque":[""],"static":["CALLSITE","META"],"struct":["Context","LeaderValue","MetaSrv","MetaSrvOptions"],"type":["ElectionRef","SelectorRef"]};
